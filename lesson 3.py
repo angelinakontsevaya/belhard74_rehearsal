@@ -11,7 +11,7 @@ numbers = (10,12,97)
 average = (sum(numbers)/len(numbers))
 print (f"{(average):.2f}")
 #или округление
-print (round(average),2)
+print (round(average), 2)
 
 
 #task3

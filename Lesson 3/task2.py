@@ -3,10 +3,3 @@
 numbers = (10,12,97)
 average = (sum(numbers)/len(numbers))
 print (f"{(average):.3f}")
-
-
-
-
-
-#округление
-print (round(average),3)
