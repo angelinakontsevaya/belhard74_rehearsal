@@ -1,6 +1,8 @@
 #task4
 #Пользователь вводит 3 числа, сказать сколько из них положительных и сколько отрицательных
-a = 0,18,19
-print ("positive", sum (a > 0 ))
-print ("negative", sum (a < 0 ))
+a = 0
+b = 18
+c = 20
+print ("positive", sum (a,b,c > 0 ))
+print ("negative", sum (a,b,c < 0 ))
 
